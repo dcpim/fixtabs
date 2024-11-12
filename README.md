@@ -7,10 +7,10 @@ Replace leading spaces in a text file with tabs.
 This simple utility will scan a text file and replace leading spaces with tabs. It supports 4 or 5 spaces per tab, along with a mix of tabs and spaces. It uses and requires Python 3.x to be installed on the system.
 
 To use this utility, simply specify the text file:
-	fixtabs file.txt
+	`fixtabs file.txt`
 
 You can also redirect the output to a new file:
-	fixtabs file.txt > file2.txt
+	`fixtabs file.txt > file2.txt`
 
 ## Copyright
 Copyright 2019 Patrick Lambert <patrick@dendory.ca>
